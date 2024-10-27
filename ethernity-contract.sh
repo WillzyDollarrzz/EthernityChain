@@ -53,7 +53,7 @@ echo "Saving private key..."
 echo "PRIVATE_KEY=$PRIVATE_KEY" > .env
 
 
-echo "Creating deploy.ts script..."
+echo "Creating deploy.ts file..."
 mkdir -p scripts
 cat > scripts/deploy.ts <<EOL
 import { ethers } from "hardhat";
@@ -62,9 +62,10 @@ import { Contract } from "ethers";
 async function main() {
   const Hello = await ethers.getContractFactory("Hello");
   const hello = await Hello.deploy() as Contract;  
+  const txHash = hello.deployTransaction.hash; 
   await hello.deployed();
   console.log("Ethernity Contract deployed to:", hello.address);
-  console.log("Transaction link:", `https://testnet.ernscan.io/tx/${txHash}`);
+  console.log("Transaction link: https://testnet.ernscan.io/tx/" + `${txHash}`);
 }
 
 main()
