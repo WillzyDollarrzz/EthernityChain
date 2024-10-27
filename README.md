@@ -1,7 +1,7 @@
 # EthernityChain Testnet Ultimate Guide
 Made some few modifications to the original code to ensure you don't catch an error... you can check out files in this repo to verify :)
 - This guide works on VPS, Github Codespaces/ Gitpod / Linux based Terminal (Ubuntu, WSL)
-- Ensure you bridge from Sepolia to Ethernity Chain Using [Their Site](https://testnetbridge.ethernitychain.io/)before proceeding with this guide
+- Ensure you bridge from Sepolia to Ethernity Chain Using [Their Site](https://testnetbridge.ethernitychain.io/) before proceeding with this guide
 
   **Let's get Started :)**
 
