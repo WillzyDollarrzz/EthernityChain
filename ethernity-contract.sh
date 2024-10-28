@@ -65,7 +65,7 @@ async function main() {
   const txHash = hello.deployTransaction.hash; 
   await hello.deployed();
   console.log("Ethernity Contract deployed to:", hello.address);
-  console.log("Transaction link: https://testnet.ernscan.io/tx/" + `${txHash}`);
+  console.log("Transaction link: https://testnet.ernscan.io/tx/" + txHash);
 }
 
 main()
