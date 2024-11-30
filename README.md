@@ -24,8 +24,8 @@ cd $HOME && mkdir ethernity-contract && cd ethernity-contract && wget -q https:/
 Look At The Images Below For Reference:
 <br>
 <br>
-<a href="https://ibb.co/0rpzGMD"><img src="https://i.ibb.co/VT0kqSj/A3-AEA86-B-CC83-43-B8-A249-537-B3-CDEBC03.jpg" alt="A3-AEA86-B-CC83-43-B8-A249-537-B3-CDEBC03" border="0"></a> <br>
-<a href="https://ibb.co/qkmbcPQ"><img src="https://i.ibb.co/sysLNMY/D8207187-E17-C-40-A1-94-E6-0597-C4-BF741-C.jpg" alt="D8207187-E17-C-40-A1-94-E6-0597-C4-BF741-C" border="0"></a> <br>
+<img src="https://i.ibb.co/VT0kqSj/A3-AEA86-B-CC83-43-B8-A249-537-B3-CDEBC03.jpg" alt="A3-AEA86-B-CC83-43-B8-A249-537-B3-CDEBC03" border="0"> <br>
+<img src="https://i.ibb.co/sysLNMY/D8207187-E17-C-40-A1-94-E6-0597-C4-BF741-C.jpg" alt="D8207187-E17-C-40-A1-94-E6-0597-C4-BF741-C" border="0"> <br>
 
 We're done.
 
